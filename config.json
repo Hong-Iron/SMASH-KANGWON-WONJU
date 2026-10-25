@@ -20,5 +20,46 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "강원대학교 원주캠퍼스 학생복지관": {
+      "style": "stone",
+      "wall": "#e3e1dc",
+      "glass": "#3d6a5f",
+      "frame": "#5a5c5c"
+    },
+    "강원대학교 원주캠퍼스 대학본부": {
+      "style": "brick",
+      "wall": "#b8784a",
+      "glass": "#2f3a40",
+      "frame": "#e4e0d8"
+    },
+    "과학기술대학1호관": {
+      "style": "brick",
+      "wall": "#8e5444",
+      "glass": "#2e3a44",
+      "frame": "#f0ece6"
+    },
+    "청송관": {
+      "style": "dorm",
+      "wall": "#f2ece4",
+      "glass": "#3b4650",
+      "frame": "#d9a5a8",
+      "hip": true,
+      "roof": "#6e4a48"
+    },
+    "과학기술대학2호관": {
+      "style": "glass",
+      "wall": "#e6e3dc",
+      "glass": "#4f6f8a",
+      "frame": "#b9c0c6"
+    },
+    "보건복지대학1호관": {
+      "style": "stone",
+      "wall": "#d8dad6",
+      "glass": "#5d7d80",
+      "frame": "#b8bcbc"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
